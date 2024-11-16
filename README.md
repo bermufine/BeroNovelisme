@@ -4,6 +4,24 @@
     {
       "name": "Movies",
       "videos": [
+         {
+          "descriptionNovela": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
+          "sourceNovela": [
+            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+          "titleNovela": "TOP NOVELAS"
+        },
+         {
+          "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
+          "titleNovela": "NOVELAS"
+        },
         { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
         {
           "descriptionNovela": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
@@ -49,15 +67,6 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
           "titleNovela": "A+ IVOIRE"
-        },
-        {
-          "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
-          "titleNovela": "NOVELAS"
         },
         {
           "descriptionNovela": "Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
