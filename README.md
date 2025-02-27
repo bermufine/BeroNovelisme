@@ -5,13 +5,31 @@
       "name": "Movies",
       "videos": [
          {
-          "descriptionNovela": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
+          "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
           "sourceNovela": [
-            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+            "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
-          "titleNovela": "TOP NOVELAS"
+          "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
+          "titleNovela": "FREQUENCE NOVELAS"
+        },
+        {
+          "descriptionNovela": "ZEE MAGIC tv est une chaine specialise au series novelas Indiennes et autres",
+          "sourceNovela": [
+            "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
+          "titleNovela": "ZEE MAGIC"
+        },
+         {
+          "descriptionNovela": "Passion Bollywood TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
+          "sourceNovela": [
+            "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9a653242c406e725/channels/2888294c-5918-42f6-a2bd-91d49b26634c/03bc9e11-13bd-4a07-ba09-0586d910741d/PassionBollywood_FR.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
+          "titleNovela": "PASSION BOLLYWOOD"
         },
          {
           "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
