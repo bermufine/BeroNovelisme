@@ -14,13 +14,13 @@
           "titleNovela": "FREQUENCE NOVELAS"
         },
         {
-          "descriptionNovela": "ZEE MAGIC tv est une chaine specialise au series novelas Indiennes et autres",
+          "descriptionNovela": "ZEE ONE tv est une chaine specialise au series novelas Indiennes et autres",
           "sourceNovela": [
             "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
-          "titleNovela": "ZEE MAGIC"
+          "titleNovela": "ZEE ONE"
         },
          {
           "descriptionNovela": "Passion Bollywood TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
@@ -96,67 +96,13 @@
           "titleNovela": "AFRO MAGIC"
         },
         {
-          "descriptionNovela": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg",
-          "titleNovela": "TELE NOVELAS"
-        },
-        {
-          "descriptionNovela": "Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg",
-          "titleNovela": "SERIE FANTATISQUE"
-        },
-        {
-          "descriptionNovela": "AM ROK TV est une chaine televisee des series Africaines et autres....",
-          "sourceNovela": [
-            "http://145.239.5.177:8080/133/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NDZfNTU4NTc1MTNf/roktv.jfif",
-          "titleNovela": "ROK TV"
-        },
-        {
-          "descriptionNovela": "TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement",
-          "sourceNovela": [
-            "http://145.239.5.177:8080/152/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif",
-          "titleNovela": "TL NOVELAS"
-        },
-        {
           "descriptionNovela": "MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili....",
           "sourceNovela": [
-            "http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"
+            "http://tnt-television.com/MADI-TV/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
           "titleNovela": "MADI TV"
-        },
-        {
-          "descriptionNovela": "Teen Serie TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04b531-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af7e8ed7-6977-4fd3-ad9f-89d89e958736&serverSideAds=false"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NDZfNTE4NzEyNTFf/teenSerie.jpg",
-          "titleNovela": "TEEN SERIE"
-        },
-        {
-          "descriptionNovela": "Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili",
-          "sourceNovela": [
-            "https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg",
-          "titleNovela": "BONGO TV"
         },
         {
           "descriptionNovela": "Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais",
@@ -175,6 +121,15 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg",
           "titleNovela": "AFRIWOOD BLOCKBUSTER"
+        },
+         {
+          "descriptionNovela": "bbc drama est une chaine de divertissement, des films et series pour votre divertissement",
+          "sourceNovela": [
+            "https://amg00793-amg00793c42-rakuten-fr-5446.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrance-rakutenfr/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png",
+          "titleNovela": "BBC DRAMA TV"
         },
         {
           "descriptionNovela": "True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement",
@@ -204,15 +159,6 @@
           "titleNovela": "AFROLAND TV"
         },
         {
-          "descriptionNovela": "Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
-          "sourceNovela": [
-            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg",
-          "titleNovela": "AFROLAND 2"
-        },
-        {
           "descriptionNovela": "Romanza TV est une chaine des films et series pour votre divertissement",
           "sourceNovela": [
             "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"
@@ -231,15 +177,6 @@
           "titleNovela": "MANJARO TV"
         },
         {
-          "descriptionNovela": "bbc drama est une chaine de divertissement, des films et series pour votre divertissement",
-          "sourceNovela": [
-            "https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png",
-          "titleNovela": "BBC DRAMA TV"
-        },
-        {
           "descriptionNovela": "Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.",
           "sourceNovela": [
             "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
@@ -247,15 +184,6 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
           "titleNovela": "TELEVISA"
-        },
-        {
-          "descriptionNovela": "Vix Parejas Novelas TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement",
-          "sourceNovela": [
-            "https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yOTA5Nzg4NDJf/vixvisa.jpg",
-          "titleNovela": "VIX PAREJAS"
         },
         {
           "descriptionNovela": "Vix Novelasde Romance TV est l'une chaînes mexicaines qui diffuse les séries Novelas mexicaines en espagnole",
@@ -283,24 +211,6 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
           "titleNovela": "RTI 2"
-        },
-        {
-          "descriptionNovela": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
-          "sourceNovela": [
-            "http://168.227.22.18:1935/live/mobile-014/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNjg5MzEyNTdf/Passiones.jpg",
-          "titleNovela": "PASSION SERIE"
-        },
-        {
-          "descriptionNovela": "Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
-          "sourceNovela": [
-            "http://168.227.22.18:1935/live/mobile-152/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg",
-          "titleNovela": "TELEMUNDO 2"
         },
         {
           "descriptionNovela": "NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
@@ -337,74 +247,13 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg",
           "titleNovela": "NOVELISME TV"
-        },
-        {
-          "descriptionNovela": "Tierre de Amor y vengenza TV est la chaine de divertissement qui diffuse des films, séries et theatres Africains...",
-          "sourceNovela": [
-            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yOTQ1OTg2OTlf/tierra.jpg",
-          "titleNovela": "TIERRA DE AMOR"
-        },
-        {
-          "descriptionNovela": "Telemundo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
-          "sourceNovela": [
-            "http://168.227.22.18:1935/live/mobile-040/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yODk0MDk1NTNf/Telemundo.jpeg",
-          "titleNovela": "TELEMUNDO 2"
-        },
-        {
-          "descriptionNovela": "RCN Séries Tv est l'une des chaines specialisee aux films et series Internationales....",
-          "sourceNovela": [
-            "http://168.227.22.18:1935/live/mobile-066/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yODk0MDk1OTFf/rcnSeries.jpeg",
-          "titleNovela": "RCN NOVELAS"
-        },
-        {
-          "descriptionNovela": "TNT Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines",
-          "sourceNovela": [
-            "http://168.227.22.18:1935/live/mobile-046/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yODk0MDk5NDZf/TNTSeries.png",
-          "titleNovela": "TNT SERIE"
-        },
-        {
-          "descriptionNovela": "A3Serie Series TV est une chaine televisee qui diffuse que des film et series surtout beaucoup plus Mexicaines",
-          "sourceNovela": [
-            "http://168.227.22.18:1935/live/mobile-047/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNjg5MzA2ODZf/A3Serie.png",
-          "titleNovela": "A3 SERIE"
-        },
-        {
-          "descriptionNovela": "ROK TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4212"
-          ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yOTQ2MDgzNDdf/rok.jpeg",
-          "titleNovela": "ROK TV"
-        },
-        {
-          "descriptionNovela": "A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....",
-          "sourceNovela": [
-            "http://185.59.221.131:8081/live/atv/playlist.m3u8"
-          ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
-          "titleNovela": "A+ IVOIRE"
         }
       ]
     }
   ]
 }
+
+
 
 {
           "descriptionNovela": "AM EPIC TV est une chaine televisee des series Africaines et autres....",
@@ -578,4 +427,67 @@
           "subtitleNovela": "By Channel ",
           "thumbNovela": "https://od.lk/s/M18yNTQyMjQwODdf/tfi.png",
           "titleNovela": "TF1 TV"
+        },
+           {
+          "descriptionNovela": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg",
+          "titleNovela": "TELE NOVELAS"
+        },
+        {
+          "descriptionNovela": "Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg",
+          "titleNovela": "SERIE FANTATISQUE"
+        },
+        {
+          "descriptionNovela": "AM ROK TV est une chaine televisee des series Africaines et autres....",
+          "sourceNovela": [
+            "http://145.239.5.177:8080/133/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNTU4NTc1MTNf/roktv.jfif",
+          "titleNovela": "ROK TV"
+        },
+          {
+          "descriptionNovela": "Teen Serie TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04b531-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af7e8ed7-6977-4fd3-ad9f-89d89e958736&serverSideAds=false"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNTE4NzEyNTFf/teenSerie.jpg",
+          "titleNovela": "TEEN SERIE"
+        },
+           {
+          "descriptionNovela": "Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
+          "sourceNovela": [
+            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg",
+          "titleNovela": "AFROLAND 2"
+        }, 
+        {
+          "descriptionNovela": "TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement",
+          "sourceNovela": [
+            "http://145.239.5.177:8080/152/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif",
+          "titleNovela": "TL NOVELAS"
+        },
+         {
+          "descriptionNovela": "Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili",
+          "sourceNovela": [
+            "https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg",
+          "titleNovela": "BONGO TV"
         },
