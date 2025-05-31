@@ -5,6 +5,15 @@
       "name": "Movies",
       "videos": [
          {
+          "descriptionNovela": "Top NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
+          "sourceNovela": [
+            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+          "titleNovela": "TOP NOVELAS"
+        },
+       {
           "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
           "sourceNovela": [
             "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
@@ -12,7 +21,7 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
           "titleNovela": "FREQUENCE NOVELAS"
-        },
+        }, 
         {
           "descriptionNovela": "ZEE ONE tv est une chaine specialise au series novelas Indiennes et autres",
           "sourceNovela": [
