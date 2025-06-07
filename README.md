@@ -104,6 +104,15 @@
           "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
           "titleNovela": "AFRO MAGIC"
         },
+         {
+          "descriptionNovela": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"
+          ],
+          "subtitleNovela": "By Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
+          "titleNovela": "SERIES NOVELAS"
+        },
         {
           "descriptionNovela": "MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili....",
           "sourceNovela": [
@@ -157,6 +166,15 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg",
           "titleNovela": "AFRIWOOD SERIES"
+        },
+         {
+          "descriptionNovela": "TFX TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://145.239.5.177/315/index.m3u8"
+          ],
+          "subtitleNovela": "By Channel ",
+          "thumbNovela": "https://od.lk/s/M18yNTQyMjQwODdf/tfi.png",
+          "titleNovela": "TFX TV"
         },
         {
           "descriptionNovela": "Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
@@ -374,15 +392,7 @@
           "thumbNovela": "https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg",
           "titleNovela": "SERIE CLUB"
         },
-        {
-          "descriptionNovela": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"
-          ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
-          "titleNovela": "SERIES NOVELAS"
-        },
+       
          {
           "descriptionNovela": "AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
           "sourceNovela": [
@@ -428,15 +438,7 @@
           "thumbNovela": "https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg",
           "titleNovela": "TEVA TV"
         },
-          {
-          "descriptionNovela": "TF1 TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://185.59.221.131:8081/live/tf1/playlist.m3u8"
-          ],
-          "subtitleNovela": "By Channel ",
-          "thumbNovela": "https://od.lk/s/M18yNTQyMjQwODdf/tfi.png",
-          "titleNovela": "TF1 TV"
-        },
+         
            {
           "descriptionNovela": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
