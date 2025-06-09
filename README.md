@@ -7,7 +7,7 @@
          {
           "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
-            "http://145.239.5.177:80/152/index.m3u8"
+            "http://145.239.5.177/132/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
@@ -75,6 +75,15 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
           "titleNovela": "NOLLYWOOD TV"
+        },
+         {
+          "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://145.239.5.177/152/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
+          "titleNovela": "NOVELAS TV"
         },
         {
           "descriptionNovela": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
