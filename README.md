@@ -58,7 +58,24 @@
           "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
           "titleNovela": "NOVELAS"
         },
-        { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
+         {
+          "descriptionNovela": "Nollywood TV est une chaine televisee des series Africaines et autres....",
+          "sourceNovela": [
+            "http://145.239.5.177/148/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
+          "titleNovela": "NOLLYWOOD TV"
+        },
+         {
+          "descriptionNovela": "Nollywood TV est une chaine televisee des series Africaines et autres....",
+          "sourceNovela": [
+            "http://69.64.57.208/aforevo/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
+          "titleNovela": "NOLLYWOOD TV"
+        },
         {
           "descriptionNovela": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
           "sourceNovela": [
@@ -67,15 +84,6 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
           "titleNovela": "PASSION NOVELAS"
-        },
-        {
-          "descriptionNovela": "Nollywood TV est une chaine televisee des series Africaines et autres....",
-          "sourceNovela": [
-            "http://69.64.57.208/aforevo/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
-          "titleNovela": "NOLLYWOOD TV"
         },
          {
           "descriptionNovela": "Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
@@ -104,6 +112,7 @@
           "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
           "titleNovela": "AFRO MAGIC"
         },
+        { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
          {
           "descriptionNovela": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
