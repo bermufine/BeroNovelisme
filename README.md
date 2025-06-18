@@ -121,6 +121,15 @@
           "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
           "titleNovela": "AFRO MAGIC"
         },
+        {
+          "descriptionNovela": "STAR PLUS-NOVELAS TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            " http://41.223.30.228/STARPLUS-NOVELAS/video.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfODIzODAxMzJf/starNovelas.jpg",
+          "titleNovela": "STAR+ NOVELAS"
+        },
         { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
          {
           "descriptionNovela": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
