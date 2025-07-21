@@ -5,6 +5,24 @@
       "name": "Movies",
       "videos": [
          {
+          "descriptionNovela": "ZEE WORLD tv est une chaine specialise au series novelas Indiennes et autres",
+          "sourceNovela": [
+            "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTA3Nzhf/zeeworld.jpg",
+          "titleNovela": "ZEE WORLD"
+        },
+          {
+          "descriptionNovela": "Zee Magic TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
+          "sourceNovela": [
+            "https://3ff79224403e405f878ba52542c90392.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ZeeMagic/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTEyNTBf/zeeMagic.jpeg",
+          "titleNovela": "ZEE MAGIC"
+        },
+         {
           "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "http://145.239.5.177/132/index.m3u8"
@@ -39,6 +57,15 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
           "titleNovela": "ZEE ONE"
+        },
+         {
+          "descriptionNovela": "Novelas ChannelTV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTEyMTBf/novelaChannel.jpeg",
+          "titleNovela": "NOVELAS CHANNEL"
         },
          {
           "descriptionNovela": "Passion Bollywood TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
