@@ -10,6 +10,7 @@
             "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "430",
           "thumbNovela": "https://od.lk/s/NDZfODQwNTA3Nzhf/zeeworld.jpg",
           "titleNovela": "ZEE WORLD"
         },
@@ -19,6 +20,7 @@
             "https://3ff79224403e405f878ba52542c90392.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ZeeMagic/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "431",
           "thumbNovela": "https://od.lk/s/NDZfODQwNTEyNTBf/zeeMagic.jpeg",
           "titleNovela": "ZEE MAGIC"
         },
@@ -28,8 +30,19 @@
             "http://145.239.5.177/132/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "432",
           "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
           "titleNovela": "NOVELAS TV"
+        },
+            {
+          "descriptionNovela": "And TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+           "numberNovela": "433",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTE0OTNf/AndTV.jpg",
+          "titleNovela": "NOVELAS CHANNEL"
         },
          {
           "descriptionNovela": "Top NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
@@ -37,6 +50,7 @@
             "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "434",
           "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "titleNovela": "TOP NOVELAS"
         },
@@ -46,6 +60,7 @@
             "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "435",
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
           "titleNovela": "FREQUENCE NOVELAS"
         }, 
@@ -55,15 +70,17 @@
             "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "436",
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
           "titleNovela": "ZEE ONE"
         },
          {
-          "descriptionNovela": "Novelas ChannelTV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "descriptionNovela": "Novelas Channel TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "437",
           "thumbNovela": "https://od.lk/s/NDZfODQwNTEyMTBf/novelaChannel.jpeg",
           "titleNovela": "NOVELAS CHANNEL"
         },
@@ -73,6 +90,7 @@
             "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9a653242c406e725/channels/2888294c-5918-42f6-a2bd-91d49b26634c/03bc9e11-13bd-4a07-ba09-0586d910741d/PassionBollywood_FR.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "438",
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
           "titleNovela": "PASSION BOLLYWOOD"
         },
@@ -82,6 +100,7 @@
             "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "439",
           "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
           "titleNovela": "NOVELAS"
         },
@@ -91,6 +110,7 @@
             "http://145.239.5.177/148/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
+           "numberNovela": "440",
           "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
           "titleNovela": "NOLLYWOOD TV"
         },
@@ -100,6 +120,7 @@
             "http://69.64.57.208/aforevo/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "441",
           "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
           "titleNovela": "NOLLYWOOD TV"
         },
@@ -109,6 +130,7 @@
             "http://145.239.5.177/152/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "442",
           "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
           "titleNovela": "NOVELAS TV"
         },
@@ -118,6 +140,7 @@
             "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "443",
           "thumbNovela": "https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
           "titleNovela": "PASSION NOVELAS"
         },
@@ -127,6 +150,7 @@
             "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "444",
           "thumbNovela": "https://od.lk/s/NDZfNTE4NjkxMzRf/telenovela.jpeg",
           "titleNovela": "NOVELAS 1"
         },
@@ -136,6 +160,7 @@
             "http://69.64.57.208/atv/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "445",
           "thumbNovela": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
           "titleNovela": "A+ IVOIRE"
         },
@@ -145,6 +170,7 @@
             "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "446",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
           "titleNovela": "AFRO MAGIC"
         },
@@ -154,16 +180,18 @@
             " http://41.223.30.228/STARPLUS-NOVELAS/video.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "447",
           "thumbNovela": "https://od.lk/s/NDZfODIzODAxMzJf/starNovelas.jpg",
           "titleNovela": "STAR+ NOVELAS"
         },
-        { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
+        { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "numberNovela": "448", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
          {
           "descriptionNovela": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"
           ],
           "subtitleNovela": "By Channel",
+          "numberNovela": "449",
           "thumbNovela": "https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
           "titleNovela": "SERIES NOVELAS"
         },
@@ -173,6 +201,7 @@
             "http://tnt-television.com/MADI-TV/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "450",
           "thumbNovela": "https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
           "titleNovela": "MADI TV"
         },
@@ -182,6 +211,7 @@
             "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "451",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg",
           "titleNovela": "CINEMA HAUSA"
         },
@@ -191,6 +221,7 @@
             "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "452",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg",
           "titleNovela": "AFRIWOOD BLOCKBUSTER"
         },
@@ -200,6 +231,7 @@
             "https://amg00793-amg00793c42-rakuten-fr-5446.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrance-rakutenfr/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "453",
           "thumbNovela": "https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png",
           "titleNovela": "BBC DRAMA TV"
         },
@@ -209,6 +241,7 @@
             "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "454",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg",
           "titleNovela": "TRUE AFRICA"
         },
@@ -218,6 +251,7 @@
             "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "455",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg",
           "titleNovela": "AFRIWOOD SERIES"
         },
@@ -227,6 +261,7 @@
             "http://145.239.5.177/315/index.m3u8"
           ],
           "subtitleNovela": "By Channel ",
+          "numberNovela": "456",
           "thumbNovela": "https://od.lk/s/M18yNTQyMjQwODdf/tfi.png",
           "titleNovela": "TFX TV"
         },
@@ -236,6 +271,7 @@
             "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "457",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA3MDdf/afroland.png",
           "titleNovela": "AFROLAND TV"
         },
@@ -245,6 +281,7 @@
             "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "458",
           "thumbNovela": "https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg",
           "titleNovela": "ROMANZA"
         },
@@ -254,6 +291,7 @@
             "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "459",
           "thumbNovela": "https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg",
           "titleNovela": "MANJARO TV"
         },
@@ -263,6 +301,7 @@
             "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "460",
           "thumbNovela": "https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
           "titleNovela": "TELEVISA"
         },
@@ -272,6 +311,7 @@
             "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "461",
           "thumbNovela": "https://od.lk/s/M18yODk4NDg5OTlf/Vixromance-1.jpg",
           "titleNovela": "VIX ROMANCE"
         },
@@ -281,6 +321,7 @@
             "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "462",
           "thumbNovela": "https://od.lk/s/NDZfNTE4NjkxMzJf/telenovelastv.jpeg",
           "titleNovela": "TELE NOVELA"
         },
@@ -290,6 +331,7 @@
             "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "463",
           "thumbNovela": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
           "titleNovela": "RTI 2"
         },
@@ -299,6 +341,7 @@
             "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "464",
           "thumbNovela": "https://od.lk/s/M18yOTQ2MDgzNDJf/novelaturcas.jpeg",
           "titleNovela": "NOVELAS TURCAS"
         },
@@ -308,6 +351,7 @@
             "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"
           ],
           "subtitleNovela": "Al Channel",
+          "numberNovela": "465",
           "thumbNovela": "https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg",
           "titleNovela": "NOVELAS 4"
         },
@@ -317,6 +361,7 @@
             "https://avaserieshls.wns.live/hls/stream.m3u8"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "466",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzY3OTJf/avaseries.jpg",
           "titleNovela": "AVA SERIES"
         },
@@ -326,6 +371,7 @@
             "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
           ],
           "subtitleNovela": "All Channel",
+          "numberNovela": "467",
           "thumbNovela": "https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg",
           "titleNovela": "NOVELISME TV"
         }
