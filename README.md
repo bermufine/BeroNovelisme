@@ -5,16 +5,36 @@
       "name": "Movies",
       "videos": [
          {
+          "descriptionNovela": "AM Epic tv est une chaine specialise au series novelas Indiennes et autres",
+          "sourceNovela": [
+            "http://145.239.5.177/214/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "430",
+          "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MThf/mepic.jpeg",
+          "titleNovela": "AM EPIC TV"
+        },
+        {
           "descriptionNovela": "ZEE WORLD tv est une chaine specialise au series novelas Indiennes et autres",
           "sourceNovela": [
             "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "430",
+          "numberNovela": "549",
           "thumbNovela": "https://od.lk/s/NDZfODQwNTA3Nzhf/zeeworld.jpg",
           "titleNovela": "ZEE WORLD"
         },
-          {
+        {
+          "descriptionNovela": "Serie Club tv est une chaine specialise au series novelas Indiennes et autres",
+          "sourceNovela": [
+            "http://145.239.5.177/355/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "550",
+          "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MzJf/serieclub.jpeg",
+          "titleNovela": "SERIE CLUB"
+        },
+        {
           "descriptionNovela": "Zee Magic TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
           "sourceNovela": [
             "https://3ff79224403e405f878ba52542c90392.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ZeeMagic/playlist.m3u8"
