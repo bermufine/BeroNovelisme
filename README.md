@@ -4,6 +4,16 @@
     {
       "name": "Movies",
       "videos": [
+          {
+          "descriptionNovela": "TVI ficao é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
+          "sourceNovela": [
+            "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "432",
+          "thumbNovela": "https://od.lk/s/NDZfODM5MTUxNDBf/ficao.jpeg",
+          "titleNovela": "TVI FICAO"
+        },
          {
           "descriptionNovela": "AM Epic tv est une chaine specialise au series novelas Indiennes et autres",
           "sourceNovela": [
@@ -14,15 +24,15 @@
           "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MThf/mepic.jpeg",
           "titleNovela": "AM EPIC TV"
         },
-        {
-          "descriptionNovela": "ZEE WORLD tv est une chaine specialise au series novelas Indiennes et autres",
+         {
+          "descriptionNovela": "TVI AFRICA é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
           "sourceNovela": [
-            "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
+            "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "549",
-          "thumbNovela": "https://od.lk/s/NDZfODQwNTA3Nzhf/zeeworld.jpg",
-          "titleNovela": "ZEE WORLD"
+          "numberNovela": "431",
+          "thumbNovela": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
+          "titleNovela": "TVI AFRICA"
         },
         {
           "descriptionNovela": "Serie Club tv est une chaine specialise au series novelas Indiennes et autres",
@@ -35,26 +45,6 @@
           "titleNovela": "SERIE CLUB"
         },
         {
-          "descriptionNovela": "Zee Magic TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
-          "sourceNovela": [
-            "https://3ff79224403e405f878ba52542c90392.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ZeeMagic/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-           "numberNovela": "431",
-          "thumbNovela": "https://od.lk/s/NDZfODQwNTEyNTBf/zeeMagic.jpeg",
-          "titleNovela": "ZEE MAGIC"
-        },
-         {
-          "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://145.239.5.177/132/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-           "numberNovela": "432",
-          "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
-          "titleNovela": "NOVELAS TV"
-        },
-            {
           "descriptionNovela": "And TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
@@ -84,16 +74,6 @@
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
           "titleNovela": "FREQUENCE NOVELAS"
         }, 
-        {
-          "descriptionNovela": "ZEE ONE tv est une chaine specialise au series novelas Indiennes et autres",
-          "sourceNovela": [
-            "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-           "numberNovela": "436",
-          "thumbNovela": "https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
-          "titleNovela": "ZEE ONE"
-        },
          {
           "descriptionNovela": "Novelas Channel TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
@@ -103,16 +83,6 @@
            "numberNovela": "437",
           "thumbNovela": "https://od.lk/s/NDZfODQwNTEyMTBf/novelaChannel.jpeg",
           "titleNovela": "NOVELAS CHANNEL"
-        },
-         {
-          "descriptionNovela": "Passion Bollywood TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
-          "sourceNovela": [
-            "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9a653242c406e725/channels/2888294c-5918-42f6-a2bd-91d49b26634c/03bc9e11-13bd-4a07-ba09-0586d910741d/PassionBollywood_FR.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-           "numberNovela": "438",
-          "thumbNovela": "https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
-          "titleNovela": "PASSION BOLLYWOOD"
         },
          {
           "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
@@ -216,26 +186,6 @@
           "titleNovela": "SERIES NOVELAS"
         },
         {
-          "descriptionNovela": "MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili....",
-          "sourceNovela": [
-            "http://tnt-television.com/MADI-TV/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "450",
-          "thumbNovela": "https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
-          "titleNovela": "MADI TV"
-        },
-        {
-          "descriptionNovela": "Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais",
-          "sourceNovela": [
-            "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "451",
-          "thumbNovela": "https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg",
-          "titleNovela": "CINEMA HAUSA"
-        },
-        {
           "descriptionNovela": "Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement",
           "sourceNovela": [
             "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"
@@ -280,10 +230,20 @@
           "sourceNovela": [
             "http://145.239.5.177/315/index.m3u8"
           ],
-          "subtitleNovela": "By Channel ",
+          "subtitleNovela": "All Channel ",
           "numberNovela": "456",
           "thumbNovela": "https://od.lk/s/M18yNTQyMjQwODdf/tfi.png",
           "titleNovela": "TFX TV"
+        },
+        {
+          "descriptionNovela": "Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://145.239.5.177/356/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "656",
+          "thumbNovela": "https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg",
+          "titleNovela": "TEVA TV"
         },
         {
           "descriptionNovela": "Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
@@ -346,16 +306,6 @@
           "titleNovela": "TELE NOVELA"
         },
         {
-          "descriptionNovela": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "463",
-          "thumbNovela": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
-          "titleNovela": "RTI 2"
-        },
-        {
           "descriptionNovela": "NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"
@@ -394,11 +344,24 @@
           "numberNovela": "467",
           "thumbNovela": "https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg",
           "titleNovela": "NOVELISME TV"
+        },
+        {
+          "descriptionNovela": "Telemundo accion est l'une des chaines camerounais specialisee aux films et series Afro Africains....",
+          "sourceNovela": [
+            "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "468",
+          "thumbNovela": "https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg",
+          "titleNovela": "TELEMUNDO A"
         }
       ]
     }
   ]
 }
+
+
+
 
 
 
@@ -410,6 +373,26 @@
           "subtitleNovela": "By Channel",
           "thumbNovela": "https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg",
           "titleNovela": "AM EPIC"
+        },
+              {
+          "descriptionNovela": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "463",
+          "thumbNovela": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
+          "titleNovela": "RTI 2"
+        },
+         {
+          "descriptionNovela": "Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais",
+          "sourceNovela": [
+            "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "451",
+          "thumbNovela": "https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg",
+          "titleNovela": "CINEMA HAUSA"
         },
         {
           "descriptionNovela": "AM FAMILY TV est une chaine televisee des series Africaines et autres....",
@@ -429,6 +412,37 @@
           "thumbNovela": "https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png",
           "titleNovela": "AM SHOWCASE"
         },
+         {
+          "descriptionNovela": "MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili....",
+          "sourceNovela": [
+            "http://tnt-television.com/MADI-TV/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "450",
+          "thumbNovela": "https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
+          "titleNovela": "MADI TV"
+        },
+         {
+          "descriptionNovela": "Passion Bollywood TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
+          "sourceNovela": [
+            "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9a653242c406e725/channels/2888294c-5918-42f6-a2bd-91d49b26634c/03bc9e11-13bd-4a07-ba09-0586d910741d/PassionBollywood_FR.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+           "numberNovela": "438",
+          "thumbNovela": "https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
+          "titleNovela": "PASSION BOLLYWOOD"
+        },
+         {
+          "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "http://145.239.5.177/132/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+           "numberNovela": "432",
+          "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
+          "titleNovela": "NOVELAS TV"
+        },
+     
 
          {
           "descriptionNovela": "NINA NOVELAS est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili",
@@ -503,15 +517,6 @@
           "thumbNovela": "https://od.lk/s/NDZfNTMxMzI2Njhf/starlifetv.jpg",
           "titleNovela": "STAR LIFE"
         },
-         {
-          "descriptionNovela": "Serie Club TV est une chaine televisee des series Africaines et autres....",
-          "sourceNovela": [
-            "http://45.90.106.7:8779/play/BrQ286K7@B8M/index.m3u8 "
-          ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg",
-          "titleNovela": "SERIE CLUB"
-        },
        
          {
           "descriptionNovela": "AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
@@ -522,15 +527,7 @@
           "thumbNovela": "https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg",
           "titleNovela": "AB1 TV"
         },
-        {
-          "descriptionNovela": "Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"
-          ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg",
-          "titleNovela": "STAR+ NOVELAS"
-        },
+     
         {
           "descriptionNovela": "LCA TV est une chaine televisee des diversites Africaines et autres....",
           "sourceNovela": [
@@ -550,14 +547,7 @@
           "titleNovela": "NOLLYWOOD 2"
         },
         {
-          "descriptionNovela": "Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://185.59.221.131:8081/live/teva/playlist.m3u8"
-          ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg",
-          "titleNovela": "TEVA TV"
-        },
+        
          
            {
           "descriptionNovela": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
@@ -621,4 +611,36 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg",
           "titleNovela": "BONGO TV"
+        },
+
+
+             {
+          "descriptionNovela": "Zee Magic TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
+          "sourceNovela": [
+            "https://3ff79224403e405f878ba52542c90392.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ZeeMagic/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+           "numberNovela": "431",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTEyNTBf/zeeMagic.jpeg",
+          "titleNovela": "ZEE MAGIC"
+        },
+         {
+          "descriptionNovela": "ZEE WORLD tv est une chaine specialise au series novelas Indiennes et autres",
+          "sourceNovela": [
+            "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "549",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTA3Nzhf/zeeworld.jpg",
+          "titleNovela": "ZEE WORLD"
+        },
+             {
+          "descriptionNovela": "ZEE ONE tv est une chaine specialise au series novelas Indiennes et autres",
+          "sourceNovela": [
+            "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+           "numberNovela": "436",
+          "thumbNovela": "https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
+          "titleNovela": "ZEE ONE"
         },
