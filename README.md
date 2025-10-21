@@ -102,7 +102,7 @@
           "subtitleNovela": "All Channel",
            "numberNovela": "440",
           "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
-          "titleNovela": "NOLLYWOOD TV"
+          "titleNovela": "NOLLYWOOD EPIC"
         },
          {
           "descriptionNovela": "Nollywood TV est une chaine televisee des series Africaines et autres....",
@@ -113,6 +113,16 @@
           "numberNovela": "441",
           "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
           "titleNovela": "NOLLYWOOD TV"
+        },
+        {
+          "descriptionNovela": "Mundo Series est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
+          "sourceNovela": [
+            "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "437",
+          "thumbNovela": "https://od.lk/s/NDZfODcyODc2Njlf/mundoserie.jpeg",
+          "titleNovela": "MUNDO SERIES"
         },
          {
           "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
@@ -286,44 +296,14 @@
           "titleNovela": "TELEVISA"
         },
         {
-          "descriptionNovela": "Vix Novelasde Romance TV est l'une chaînes mexicaines qui diffuse les séries Novelas mexicaines en espagnole",
-          "sourceNovela": [
-            "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "461",
-          "thumbNovela": "https://od.lk/s/M18yODk4NDg5OTlf/Vixromance-1.jpg",
-          "titleNovela": "VIX ROMANCE"
-        },
-        {
-          "descriptionNovela": "Tele Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "462",
-          "thumbNovela": "https://od.lk/s/NDZfNTE4NjkxMzJf/telenovelastv.jpeg",
-          "titleNovela": "TELE NOVELA"
-        },
-        {
-          "descriptionNovela": "NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "464",
-          "thumbNovela": "https://od.lk/s/M18yOTQ2MDgzNDJf/novelaturcas.jpeg",
-          "titleNovela": "NOVELAS TURCAS"
-        },
-        {
-          "descriptionNovela": "Novelas TV 6 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "descriptionNovela": "Tele Novelas est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"
           ],
           "subtitleNovela": "Al Channel",
           "numberNovela": "465",
           "thumbNovela": "https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg",
-          "titleNovela": "NOVELAS 4"
+          "titleNovela": "TELE NOVELAS"
         },
         {
           "descriptionNovela": "Ava Serie est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
@@ -336,7 +316,7 @@
           "titleNovela": "AVA SERIES"
         },
         {
-          "descriptionNovela": "Novelisme TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....",
+          "descriptionNovela": "Novelisme TV est l'une des chaines specialisee aux films et series Afro Africains....",
           "sourceNovela": [
             "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
           ],
@@ -346,14 +326,34 @@
           "titleNovela": "NOVELISME TV"
         },
         {
-          "descriptionNovela": "Telemundo accion est l'une des chaines camerounais specialisee aux films et series Afro Africains....",
+          "descriptionNovela": "Telemundo accion eé um canal de entretenimento com séries românticas, ação, drama, ficção e outros.",
           "sourceNovela": [
             "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "468",
-          "thumbNovela": "https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg",
+          "thumbNovela": "https://od.lk/s/NDZfODcyODcwMDlf/telemundoAccion.jpeg",
           "titleNovela": "TELEMUNDO A"
+        },
+         {
+          "descriptionNovela": "Sony Novelas est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
+          "sourceNovela": [
+            "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "432",
+          "thumbNovela": "https://od.lk/s/NDZfODcyODcxNDhf/sonyOne.png",
+          "titleNovela": "SONY NOVELAS"
+          },
+         {
+          "descriptionNovela": "TVI ficao é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
+          "sourceNovela": [
+            "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "432",
+          "thumbNovela": "https://od.lk/s/NDZfODM5MTUxNDBf/ficao.jpeg",
+          "titleNovela": "TVI FICAO"
         }
       ]
     }
@@ -441,6 +441,37 @@
            "numberNovela": "432",
           "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
           "titleNovela": "NOVELAS TV"
+        },
+
+          {
+          "descriptionNovela": "Vix Novelasde Romance TV est l'une chaînes mexicaines qui diffuse les séries Novelas mexicaines en espagnole",
+          "sourceNovela": [
+            "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "461",
+          "thumbNovela": "https://od.lk/s/M18yODk4NDg5OTlf/Vixromance-1.jpg",
+          "titleNovela": "VIX ROMANCE"
+        },
+        {
+          "descriptionNovela": "Tele Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "462",
+          "thumbNovela": "https://od.lk/s/NDZfNTE4NjkxMzJf/telenovelastv.jpeg",
+          "titleNovela": "TELE NOVELA"
+        },
+        {
+          "descriptionNovela": "NOVELAS TV 1 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "464",
+          "thumbNovela": "https://od.lk/s/M18yOTQ2MDgzNDJf/novelaturcas.jpeg",
+          "titleNovela": "NOVELAS TURCAS"
         },
      
 
