@@ -52,7 +52,7 @@
           "subtitleNovela": "All Channel",
            "numberNovela": "433",
           "thumbNovela": "https://od.lk/s/NDZfODQwNTE0OTNf/AndTV.jpg",
-          "titleNovela": "NOVELAS CHANNEL"
+          "titleNovela": "AND TV"
         },
          {
           "descriptionNovela": "Top NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
@@ -77,7 +77,7 @@
          {
           "descriptionNovela": "Novelas Channel TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
-            "https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8"
+            "https://video1.getstreamhosting.com:1936/8352/8352/chunklist_w489033680.m3u8"
           ],
           "subtitleNovela": "All Channel",
            "numberNovela": "437",
@@ -127,25 +127,15 @@
          {
           "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
-            "http://145.239.5.177/152/index.m3u8"
+            "http://145.239.5.177/347/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "442",
           "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
           "titleNovela": "NOVELAS TV"
         },
-        {
-          "descriptionNovela": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
-          "sourceNovela": [
-            "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "443",
-          "thumbNovela": "https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
-          "titleNovela": "PASSION NOVELAS"
-        },
          {
-          "descriptionNovela": "Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"
           ],
@@ -167,7 +157,7 @@
         {
           "descriptionNovela": "Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
           "sourceNovela": [
-            "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+            "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "446",
@@ -177,24 +167,23 @@
         {
           "descriptionNovela": "STAR PLUS-NOVELAS TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
-            " http://41.223.30.228/STARPLUS-NOVELAS/video.m3u8"
+            "https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "447",
           "thumbNovela": "https://od.lk/s/NDZfODIzODAxMzJf/starNovelas.jpg",
           "titleNovela": "STAR+ NOVELAS"
-        },
-        { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "numberNovela": "448", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
+        },   
          {
           "descriptionNovela": "Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channel",
           "numberNovela": "449",
           "thumbNovela": "https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
           "titleNovela": "SERIES NOVELAS"
-        },
+        }, 
         {
           "descriptionNovela": "Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement",
           "sourceNovela": [
@@ -495,24 +484,6 @@
           "titleNovela": "SUNU YEUF"
         },
         {
-          "descriptionNovela": "Nollywood TV est une chaine televisee des series Africaines et autres....",
-          "sourceNovela": [
-            "http://185.59.221.131:8081/live/aforevo/playlist.m3u8"
-          ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
-          "titleNovela": "NOLLYWOOD TV"
-        },
-         {
-          "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://145.239.5.177:8080/132/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "thumbNovela": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
-          "titleNovela": "NOVELAS TV 2"
-        },
-        {
           "descriptionNovela": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
             "http://51.254.199.122:8080/NoveLas/index.m3u8"
@@ -642,6 +613,17 @@
           "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg",
           "titleNovela": "BONGO TV"
+        },
+           { "descriptionNovela": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions", "sourceNovela": [ "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8" ], "subtitleNovela": "All Channels", "numberNovela": "448", "thumbNovela": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg", "titleNovela": "GTV 1" }, 
+         {
+          "descriptionNovela": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
+          "sourceNovela": [
+            "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "443",
+          "thumbNovela": "https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
+          "titleNovela": "PASSION NOVELAS"
         },
 
 
