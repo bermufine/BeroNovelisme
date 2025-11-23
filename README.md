@@ -5,45 +5,154 @@
       "name": "Movies",
       "videos": [
           {
-          "descriptionNovela": "TVI ficao é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
+          "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
           "sourceNovela": [
-            "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+            "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "432",
-          "thumbNovela": "https://od.lk/s/NDZfODM5MTUxNDBf/ficao.jpeg",
-          "titleNovela": "TVI FICAO"
-        },
-         {
-          "descriptionNovela": "AM Epic tv est une chaine specialise au series novelas Indiennes et autres",
-          "sourceNovela": [
-            "http://145.239.5.177/214/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "430",
-          "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MThf/mepic.jpeg",
-          "titleNovela": "AM EPIC TV"
-        },
-         {
-          "descriptionNovela": "TVI AFRICA é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
-          "sourceNovela": [
-            "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "431",
-          "thumbNovela": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
-          "titleNovela": "TVI AFRICA"
+          "numberNovela": "400",
+          "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
+          "titleNovela": "FREQUENCE NOVELAS"
         },
         {
-          "descriptionNovela": "Serie Club tv est une chaine specialise au series novelas Indiennes et autres",
+          "descriptionNovela": "CINEMA YORUBA tv est une chaine specialise au series Africaines avec tant des emotions ",
           "sourceNovela": [
-            "http://145.239.5.177/355/index.m3u8"
+            "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-yoruba/04076de6-fc5b-4a3f-ab2f-b090a6f442cd/0.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "550",
-          "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MzJf/serieclub.jpeg",
-          "titleNovela": "SERIE CLUB"
+          "numberNovela": "401",
+          "thumbNovela": "https://od.lk/s/NDZfODg3ODkzMTNf/cinemaYoruba.jpg",
+          "titleNovela": "CINEMA YORUBA"
         },
+        {
+          "descriptionNovela": "TELEVISA ESPAGNOL tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes avec tant des emotions ",
+          "sourceNovela": [
+            "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "402",
+          "thumbNovela": "https://od.lk/s/NDZfODg3ODkzMjRf/televisaEspagnol.PNG",
+          "titleNovela": "TELEVISA ESPAGNOL"
+        },
+        {
+          "descriptionNovela": "TELEVISA FRANCAIS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes avec tant des emotions ",
+          "sourceNovela": [
+            "https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "403",
+          "thumbNovela": "https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
+          "titleNovela": "TELEVISA FRANCAIS"
+        },
+        {
+          "descriptionNovela": "NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "404",
+          "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
+          "titleNovela": "NOVELAS TV"
+        },
+        {
+          "descriptionNovela": "STROMCAST NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "405",
+          "thumbNovela": "https://od.lk/s/NDZfODg3ODkzMjJf/stromcastNovelastv.png",
+          "titleNovela": "STROMCAST NOVELAS"
+        },
+        {
+          "descriptionNovela": "TELE NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://d1qf1fnbo60xec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-arjkqtr3hyot6/master.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "406",
+          "thumbNovela": "https://od.lk/s/NDZfODg3ODkzMjNf/telenovelastv.png",
+          "titleNovela": "TELE NOVELAS"
+        },
+        {
+          "descriptionNovela": "PASSION NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://d18gemy7v2tebj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0n7p3ckq9ethd/PassionNovelas_FR.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "407",
+          "thumbNovela": "https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
+          "titleNovela": "PASSION NOVELAS"
+        },
+        {
+          "descriptionNovela": "PASSION BOLLYWOOD tv est une chaine specialise au series  series novelas Indiennes avec tant des emotions ",
+          "sourceNovela": [
+            "https://d30nk0rfmci3c2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0spvfjnrozo2/PassionBollywood_FR.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "408",
+          "thumbNovela": "https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
+          "titleNovela": "PASSION BOLLYWOOD"
+        },
+        {
+          "descriptionNovela": "ZEE ONE FRANCAIS tv est une chaine specialise au series  series novelas Indiennes avec tant des emotions ",
+          "sourceNovela": [
+            "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "409",
+          "thumbNovela": "https://od.lk/s/NDZfODg3ODkzMjdf/Zee%20One.jpeg",
+          "titleNovela": "ZEE ONE FRANCAIS"
+        },
+        {
+          "descriptionNovela": "ZEE ONE ENGLISH tv est une chaine specialise au series  series novelas Indiennes avec tant des emotions ",
+          "sourceNovela": [
+            "https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "410",
+          "thumbNovela": "https://od.lk/s/NDZfODg3OTA4ODVf/zeeOnetv.png",
+          "titleNovela": "ZEE ONE ENGLISH"
+        },
+        {
+          "descriptionNovela": "NOLLYWOOD TV tv est une chaine specialise au series  series  Africaines avec tant des Passions et Emotions ",
+          "sourceNovela": [
+            "http://69.64.57.208/aforevo/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "411",
+          "thumbNovela": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
+          "titleNovela": "NOLLYWOOD TV"
+        },
+        {
+          "descriptionNovela": "NOLLYWOOD EPIC TV tv est une chaine specialise au series  series  Africaines avec tant des Passions et Emotions ",
+          "sourceNovela": [
+            "http://145.239.5.177/148/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "411",
+          "thumbNovela": "https://od.lk/s/NDZfODg3ODk0NTFf/nollywoodEpic.jpg",
+          "titleNovela": "NOLLYWOOD EPIC"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+         
         {
           "descriptionNovela": "And TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
@@ -64,16 +173,6 @@
           "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "titleNovela": "TOP NOVELAS"
         },
-       {
-          "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com",
-          "sourceNovela": [
-            "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-           "numberNovela": "435",
-          "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
-          "titleNovela": "FREQUENCE NOVELAS"
-        }, 
          {
           "descriptionNovela": "Novelas Channel TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "sourceNovela": [
@@ -647,13 +746,6 @@
           "thumbNovela": "https://od.lk/s/NDZfODQwNTA3Nzhf/zeeworld.jpg",
           "titleNovela": "ZEE WORLD"
         },
-             {
-          "descriptionNovela": "ZEE ONE tv est une chaine specialise au series novelas Indiennes et autres",
-          "sourceNovela": [
-            "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-           "numberNovela": "436",
+           
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
-          "titleNovela": "ZEE ONE"
-        },
+        
