@@ -135,7 +135,7 @@
           "titleNovela": "NOLLYWOOD EPIC"
         },
         {
-          "descriptionNovela": "A+ IVOIRE TV tv est une chaine specialise au series  series Ivoiriens et autres Africaines savec tant des Passions et Emotions ",
+          "descriptionNovela": "A+ IVOIRE TV tv est une chaine specialise au series  series Ivoiriens et autres Africaines savec tant des Passions et Emotions",
           "sourceNovela": [
             "http://69.64.57.208/atv/playlist.m3u8"
           ],
@@ -171,7 +171,7 @@
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "416",
-          "thumbNovela": "https://od.lk/s/M18yODYwMDA3MDdf/afroland.png"",
+          "thumbNovela": "https://od.lk/s/M18yODYwMDA3MDdf/afroland.png",
           "titleNovela": "AFROLAND TV"
         },
         {
