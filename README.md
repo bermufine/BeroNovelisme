@@ -143,7 +143,11 @@
           "numberNovela": "413",
           "thumbNovela": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
           "titleNovela": "A+ IVOIRE"
-        },
+        }
+      ]
+    }
+  ]
+}
         {
           "descriptionNovela": "AFRO MAGIC TV tv est une chaine specialise au series  series Nigerians et autres Africaines savec tant des Passions et Emotions",
           "sourceNovela": [
@@ -293,10 +297,7 @@
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
           "titleNovela": "FREQUENCE NOVELAS"
         }
-      ]
-    }
-  ]
-}
+     
 
 
 
