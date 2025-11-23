@@ -130,9 +130,89 @@
             "http://145.239.5.177/148/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "411",
+          "numberNovela": "412",
           "thumbNovela": "https://od.lk/s/NDZfODg3ODk0NTFf/nollywoodEpic.jpg",
           "titleNovela": "NOLLYWOOD EPIC"
+        },
+        {
+          "descriptionNovela": "A+ IVOIRE TV tv est une chaine specialise au series  series Ivoiriens et autres Africaines savec tant des Passions et Emotions ",
+          "sourceNovela": [
+            "http://69.64.57.208/atv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "413",
+          "thumbNovela": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
+          "titleNovela": "A+ IVOIRE"
+        },
+        {
+          "descriptionNovela": "AFRO MAGIC TV tv est une chaine specialise au series  series Nigerians et autres Africaines savec tant des Passions et Emotions",
+          "sourceNovela": [
+            "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "414",
+          "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
+          "titleNovela": "AFRO MAGIC"
+        },
+        {
+          "descriptionNovela": "Mundo Series est une chaine international de divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et Africains pour votre divertissement",
+          "sourceNovela": [
+            "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "415",
+          "thumbNovela": "https://od.lk/s/NDZfODcyODc2Njlf/mundoserie.jpeg",
+          "titleNovela": "MUNDO SERIES"
+        },
+        {
+          "descriptionNovela": "AFROLAND TV est une chaine divertissement, des films et series Novelas Africains pour votre divertissement",
+          "sourceNovela": [
+            "https://alt-al.otteravision.com/alt/al/al.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "416",
+          "thumbNovela": "https://od.lk/s/M18yODYwMDA3MDdf/afroland.png"",
+          "titleNovela": "AFROLAND TV"
+        },
+        {
+          "descriptionNovela": "NOVELAS CHANNEL TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+          "sourceNovela": [
+            "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "417",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTEyMTBf/novelaChannel.jpeg",
+          "titleNovela": "NOVELAS CHANNEL"
+        },
+        {
+          "descriptionNovela": "AVA SERIES TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+          "sourceNovela": [
+            "https://avaserieshls.wns.live/hls/stream.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "418",
+          "thumbNovela": "https://od.lk/s/M18yOTE2NzY3OTJf/avaseries.jpg",
+          "titleNovela": "AVA SERIES"
+        },
+        {
+          "descriptionNovela": "TOP NOVELAS TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens Africaines et autres",
+          "sourceNovela": [
+            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "419",
+          "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+          "titleNovela": "TOP NOVELAS"
+        },
+        {
+          "descriptionNovela": "TOP NOVELAS TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens Africaines et autres",
+          "sourceNovela": [
+            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "420",
+          "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+          "titleNovela": "TOP NOVELAS"
         }
       ]
     }
