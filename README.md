@@ -143,11 +143,7 @@
           "numberNovela": "413",
           "thumbNovela": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
           "titleNovela": "A+ IVOIRE"
-        }
-      ]
-    }
-  ]
-}
+        },
         {
           "descriptionNovela": "AFRO MAGIC TV tv est une chaine specialise au series  series Nigerians et autres Africaines savec tant des Passions et Emotions",
           "sourceNovela": [
@@ -197,7 +193,11 @@
           "numberNovela": "418",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzY3OTJf/avaseries.jpg",
           "titleNovela": "AVA SERIES"
-        },
+        }
+      ]
+    }
+  ]
+}
         {
           "descriptionNovela": "TOP NOVELAS TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens Africaines et autres",
           "sourceNovela": [
