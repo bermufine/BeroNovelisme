@@ -15,6 +15,16 @@
           "titleNovela": "NOVELAS"
         },
         {
+          "descriptionNovela": "NOVELAS Plus tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://vavoo.to/play/3248193038/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "421",
+          "thumbNovela": "https://od.lk/s/NDZfODkxNjgwMzZf/novelasPlustv.jpeg",
+          "titleNovela": "NOVELAS PLUS"
+        },
+        {
           "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
           "sourceNovela": [
             "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
@@ -23,16 +33,6 @@
           "numberNovela": "400",
           "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
           "titleNovela": "FREQUENCE NOVELAS"
-        },
-        {
-          "descriptionNovela": "CINEMA YORUBA tv est une chaine specialise au series Africaines avec tant des emotions ",
-          "sourceNovela": [
-            "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-yoruba/04076de6-fc5b-4a3f-ab2f-b090a6f442cd/0.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "401",
-          "thumbNovela": "https://od.lk/s/NDZfODg3ODkzMTNf/cinemaYoruba.jpg",
-          "titleNovela": "CINEMA YORUBA"
         },
         {
           "descriptionNovela": "TELEVISA ESPAGNOL tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes avec tant des emotions ",
@@ -64,15 +64,15 @@
           "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
           "titleNovela": "NOVELAS 1"
         },
-         {
-          "descriptionNovela": "NOVELAS Plus tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+            {
+          "descriptionNovela": "CINEMA YORUBA tv est une chaine specialise au series Africaines avec tant des emotions ",
           "sourceNovela": [
-            "https://vavoo.to/play/3248193038/index.m3u8"
+            "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-yoruba/04076de6-fc5b-4a3f-ab2f-b090a6f442cd/0.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "421",
-          "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
-          "titleNovela": "NOVELAS PLUS"
+          "numberNovela": "401",
+          "thumbNovela": "https://od.lk/s/NDZfODg3ODkzMTNf/cinemaYoruba.jpg",
+          "titleNovela": "CINEMA YORUBA"
         },
         {
           "descriptionNovela": "STROMCAST NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
@@ -101,7 +101,7 @@
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "407",
-          "thumbNovela": "https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
+          "thumbNovela": "https://od.lk/s/NDZfODkxNjgwMzhf/PassionNovelas.png",
           "titleNovela": "PASSION NOVELAS"
         },
         {
@@ -224,7 +224,7 @@
           "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "titleNovela": "TOP NOVELAS"
         },
-          {
+        {
           "descriptionNovela": "TVI ficao é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
           "sourceNovela": [
             "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
@@ -233,6 +233,96 @@
           "numberNovela": "422",
           "thumbNovela": "https://od.lk/s/NDZfODM5MTUxNDBf/ficao.jpeg",
           "titleNovela": "TVI FICAO"
+          },
+          {
+          "descriptionNovela": "TVI AFRICA é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
+          "sourceNovela": [
+            "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "422",
+          "thumbNovela": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
+          "titleNovela": "TVI AFRICA"
+          },
+          {
+          "descriptionNovela": "Serie Club tv est une chaine specialise au series novelas Francaise et autres",
+          "sourceNovela": [
+            "http://145.239.5.177/355/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "422",
+          "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MzJf/serieclub.jpeg",
+          "titleNovela": "TVI AFRICA"
+          },
+          {
+          "descriptionNovela": "Serie Club tv est une chaine specialise au series novelas Francaise et autres",
+          "sourceNovela": [
+            "http://145.239.5.177/355/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "422",
+          "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MzJf/serieclub.jpeg",
+          "titleNovela": "TVI AFRICA"
+          },
+          {
+          "descriptionNovela": "And TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "423",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTE0OTNf/AndTV.jpg",
+          "titleNovela": "SERIE CLUB"
+          },
+          {
+          "descriptionNovela": "And TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "424",
+          "thumbNovela": "https://od.lk/s/NDZfODQwNTE0OTNf/AndTV.jpg",
+          "titleNovela": "AND TV"
+          },
+          {
+          "descriptionNovela": "STAR PLUS-NOVELAS TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+          "sourceNovela": [
+            "https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "425",
+          "thumbNovela": "https://od.lk/s/NDZfODIzODAxMzJf/starNovelas.jpg",
+          "titleNovela": "STAR+ NOVELAS"
+          },
+          {
+          "descriptionNovela": "Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres.",
+          "sourceNovela": [
+            "http://145.239.5.177/356/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "426",
+          "thumbNovela": "https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg",
+          "titleNovela": "TEVA TV"
+          },
+          {
+          "descriptionNovela": "Telemundo accion eé um canal de entretenimento com séries românticas, ação, drama, ficção e outros.",
+          "sourceNovela": [
+            "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "427",
+          "thumbNovela": "https://od.lk/s/NDZfODcyODcwMDlf/telemundoAccion.jpeg",
+          "titleNovela": "TELEMUNDO ACTION"
+          },
+          {
+          "descriptionNovela": "Sony Novelas est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
+          "sourceNovela": [
+            "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "428",
+          "thumbNovela": "https://od.lk/s/NDZfODcyODcxNDhf/sonyOne.png",
+          "titleNovela": "SONY ONE NOVELAS"
           },
           {
           "descriptionNovela": "NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
@@ -249,86 +339,7 @@
   ]
 }
        
-    
-        {
-          "descriptionNovela": "TVI AFRICA é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
-          "sourceNovela": [
-            "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "421",
-          "thumbNovela": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
-          "titleNovela": "TVI AFRICA"
-        },
-        {
-          "descriptionNovela": "Serie Club tv est une chaine specialise au series novelas Francaise et autres",
-          "sourceNovela": [
-            "http://145.239.5.177/355/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "422",
-          "thumbNovela": "https://od.lk/s/NDZfODU0MTc3MzJf/serieclub.jpeg",
-          "titleNovela": "SERIE CLUB"
-        },
-        {
-          "descriptionNovela": "And TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "423",
-          "thumbNovela": "https://od.lk/s/NDZfODQwNTE0OTNf/AndTV.jpg",
-          "titleNovela": "SERIE CLUB"
-        },
-        {
-          "descriptionNovela": "STAR PLUS-NOVELAS TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "424",
-          "thumbNovela": "https://od.lk/s/NDZfODIzODAxMzJf/starNovelas.jpg",
-          "titleNovela": "STAR+ NOVELAS"
-        },
-        {
-          "descriptionNovela": "Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....",
-          "sourceNovela": [
-            "http://145.239.5.177/356/index.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "425",
-          "thumbNovela": "https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg",
-          "titleNovela": "TEVA TV"
-        },
-        {
-          "descriptionNovela": "Telemundo accion eé um canal de entretenimento com séries românticas, ação, drama, ficção e outros.",
-          "sourceNovela": [
-            "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "426",
-          "thumbNovela": "https://od.lk/s/NDZfODcyODcwMDlf/telemundoAccion.jpeg",
-          "titleNovela": "TELEMUNDO ACTION"
-        },
-        {
-          "descriptionNovela": "Sony Novelas est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
-          "sourceNovela": [
-            "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "426",
-          "thumbNovela": "https://od.lk/s/NDZfODcyODcxNDhf/sonyOne.png",
-          "titleNovela": "SONY ONE NOVELAS"
-        },
-        "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
-          "sourceNovela": [
-            "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "427",
-          "thumbNovela": "https://od.lk/s/NDZfNzgzMzQyNjFf/frequenceNovelas.jpg",
-          "titleNovela": "FREQUENCE NOVELAS"
-        }
+  
      
 
 
