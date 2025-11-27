@@ -4,6 +4,16 @@
     {
       "name": "Movies",
       "videos": [
+           {
+          "descriptionNovela": "NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://vavoo.to/play/1626033852/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "400",
+          "thumbNovela": "https://od.lk/s/NDZfODkxNTg1NTFf/novelas.jpeg",
+          "titleNovela": "NOVELAS"
+        },
           {
           "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
           "sourceNovela": [
@@ -45,14 +55,24 @@
           "titleNovela": "TELEVISA FRANCAIS"
         },
         {
-          "descriptionNovela": "NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "descriptionNovela": "NOVELAS tv 1 est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
           "sourceNovela": [
             "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "404",
           "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
-          "titleNovela": "NOVELAS TV"
+          "titleNovela": "NOVELAS 1"
+        },
+         {
+          "descriptionNovela": "NOVELAS Plus tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://vavoo.to/play/3248193038/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "404",
+          "thumbNovela": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
+          "titleNovela": "NOVELAS PLUS"
         },
         {
           "descriptionNovela": "STROMCAST NOVELAS tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
@@ -193,31 +213,44 @@
           "numberNovela": "418",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzY3OTJf/avaseries.jpg",
           "titleNovela": "AVA SERIES"
-        }
-      ]
-    }
-  ]
-}
-        {
-          "descriptionNovela": "TOP NOVELAS TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens Africaines et autres",
+        },
+         {
+          "descriptionNovela": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
           "sourceNovela": [
             "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "419",
+          "numberNovela": "421",
           "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "titleNovela": "TOP NOVELAS"
         },
-        {
+          {
           "descriptionNovela": "TVI ficao é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
           "sourceNovela": [
             "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "420",
+          "numberNovela": "422",
           "thumbNovela": "https://od.lk/s/NDZfODM5MTUxNDBf/ficao.jpeg",
           "titleNovela": "TVI FICAO"
-        },
+          },
+          {
+          "descriptionNovela": "NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://vavoo.to/play/1626033852/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "400",
+          "thumbNovela": "https://od.lk/s/NDZfODkxNTg1NTFf/novelas.jpeg",
+          "titleNovela": "NOVELAS"
+          }
+        ]
+      ]
+    }
+  ]
+}
+       
+    
         {
           "descriptionNovela": "TVI AFRICA é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
           "sourceNovela": [
