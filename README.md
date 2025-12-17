@@ -24,6 +24,16 @@
           "thumbNovela": "https://od.lk/s/NDZfODkxNjgwMzZf/novelasPlustv.jpeg",
           "titleNovela": "NOVELAS PLUS"
         },
+         {
+          "descriptionNovela": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
+          "sourceNovela": [
+            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "421",
+          "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+          "titleNovela": "TOP NOVELAS"
+        },
         {
           "descriptionNovela": "FREQUENCE NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
           "sourceNovela": [
@@ -213,16 +223,6 @@
           "numberNovela": "420",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzY3OTJf/avaseries.jpg",
           "titleNovela": "AVA SERIES"
-        },
-         {
-          "descriptionNovela": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
-          "sourceNovela": [
-            "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
-          ],
-          "subtitleNovela": "All Channel",
-          "numberNovela": "421",
-          "thumbNovela": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
-          "titleNovela": "TOP NOVELAS"
         },
         {
           "descriptionNovela": "TVI ficao é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
