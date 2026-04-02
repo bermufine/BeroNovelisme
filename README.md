@@ -5,6 +5,16 @@
       "name": "Movies",
       "videos": [
         {
+          "descriptionNovela": "Naija Gold tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
+          "sourceNovela": [
+            "https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "399",
+          "thumbNovela": "https://od.lk/s/NDZfOTE2MTk5NjBf/naijagoldtv.png",
+          "titleNovela": "NAIJA GOLD TV"
+        },
+        {
           "descriptionNovela": "NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions ",
           "sourceNovela": [
             "https://vavoo.to/play/1626033852/index.m3u8"
